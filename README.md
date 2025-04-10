@@ -64,6 +64,8 @@ I have a **strong foundation in Python** and a solid understanding of full-stack
 ---
 
 ## 🔗 Connect with me:
+ 
+  📧 sheikhyasar528@gmail.com
 - 📧 [yasarshishira123@gmail.com](mailto:yasarshishira123@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yasar9108/)  
 - 💻 [GitHub](https://github.com/Yasar9108)
