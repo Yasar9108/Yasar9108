@@ -1,54 +1,63 @@
-# 👋 Hi, I’m @Yasar9108
+👋 Hi, I’m Yasar
 
-Hey there! I'm **Yasar**, a passionate developer who recently graduated in **Information Science and Engineering** from **East Point College of Engineering and Technology**.  
+Hey there! I'm Yasar, a passionate Backend Developer currently working full-time at THB (TechHighbrows) Software Solutions Pvt. Ltd., where I build and scale real-world ERP web applications and AI-powered chatbots using modern technologies.
 
-I have a **strong foundation in Python** and a solid understanding of full-stack development —  
-💻 **Frontend:** HTML, CSS, JavaScript  
-🛠️ **Backend:** Django, SQL (PostgreSQL)  
+💻 Tech Stack & Skills
 
----
+Backend: Node.js · Express.js · MongoDB · JWT · REST APIs
+Frontend: HTML · CSS · JavaScript · React (basic understanding)
+AI & Automation: OpenAI API · Chatbot Integration · NLP · Python
+Tools & Others: Git · Postman · VS Code · AWS (Basics) · Agile Development
 
-## 👀 I’m interested in:
-- 🤖 AI & Machine Learning  
-- 🧠 Natural Language Processing  
-- 🛠 Backend Development using Django  
-- ⚙️ Automating workflows with Python  
-- 🧩 Building intelligent systems and chatbots  
+💼 Professional Experience
 
----
+Associate Software Engineer (Full-Time) — THB (TechHighbrows) Software Solutions Pvt. Ltd.
+Jul 2024 – Present
 
-## 🌱 I’m currently learning:
-- 📊 Advanced Machine Learning techniques  
-- ☁️ Cloud technologies (AWS)  
-- 🏗 System Design & Scalable Architecture  
-- 🗣 Improving Communication Skills  
+Developing and maintaining backend services for a real-world ERP Application (“Coalescence”) using Node.js, Express.js, and MongoDB.
 
----
+Implemented JWT-based authentication for secure access control.
 
-## 💼 Experience:
+Built and integrated AI-powered chatbots that fetch and process data from APIs for automation.
 
-### 🧪 **Python Using AI/ML Intern**  
-**Datch Endeavours Private Limited**  
-- Built and optimized AI-powered chatbots using Python, NLP, and machine learning.  
-- Conducted research to improve chatbot response accuracy and user experience.  
-- Integrated custom AI models into applications for seamless interaction.  
+Collaborating with cross-functional teams for design, debugging, and deployment.
 
----
+Backend Developer Intern — THB (TechHighbrows) Software Solutions Pvt. Ltd.
+Oct 2023 – Jun 2024
 
-## 💡 Projects:
+Assisted in ERP web module development using Node.js, Express.js, and MongoDB.
 
-### 🔹 **AI Resume Ranking System**  
-*Python · Django · PostgreSQL · NLP · AWS*  
-- Developed an ML-based system to rank resumes based on job descriptions.  
-- Extracted key data from resumes using NLP.  
-- Integrated PostgreSQL to manage candidate data efficiently.  
+Supported chatbot integration and helped design RESTful endpoints.
 
-### 🔹 **AI-Powered Chatbot Automation**  
-*Python · OpenAI · PyAutoGUI · NumPy · Pyperclip*  
-- Built a chatbot tool that automates responses using GPT-3.5-turbo.  
-- Automated user interactions with screen and clipboard management.  
+Worked closely with senior developers in debugging and performance tuning.
 
----
+💡 Personal Projects
+
+🔹 ChatNexus — AI-Powered Chatbot Web App
+Node.js · Express.js · MongoDB · OpenAI API · JWT
+
+Built a full-stack AI chatbot capable of fetching and processing user queries in real time.
+
+Designed backend APIs with Node.js + Express.js, and used MongoDB for session data.
+
+Integrated JWT authentication and deployed the project on cloud.
+
+🔹 ERP Application — “Coalescence” (Real-World Project)
+Node.js · Express.js · MongoDB
+
+Contributed to building core backend modules and database schemas.
+
+Developed and tested RESTful APIs for ERP functionalities.
+
+Collaborated with teams to integrate and deploy the project successfully.
+
+🌱 Currently Learning
+
+Advanced AI & NLP model integration
+
+System Design and Scalable Architecture
+
+Cloud deployment using AWS / Render / Vercel
 
 ## 🎓 Education:
 
