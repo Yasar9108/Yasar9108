@@ -12,7 +12,7 @@ Tools & Others: Git · Postman · VS Code · AWS (Basics) · Agile Development
 💼 Professional Experience
 
 Associate Software Engineer (Full-Time) — THB (TechHighbrows) Software Solutions Pvt. Ltd.
-Jul 2024 – Present
+Jul 2025 – Present
 
 Developing and maintaining backend services for a real-world ERP Application (“Coalescence”) using Node.js, Express.js, and MongoDB.
 
@@ -21,9 +21,6 @@ Implemented JWT-based authentication for secure access control.
 Built and integrated AI-powered chatbots that fetch and process data from APIs for automation.
 
 Collaborating with cross-functional teams for design, debugging, and deployment.
-
-Backend Developer Intern — THB (TechHighbrows) Software Solutions Pvt. Ltd.
-Oct 2023 – Jun 2024
 
 Assisted in ERP web module development using Node.js, Express.js, and MongoDB.
 
