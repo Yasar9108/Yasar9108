@@ -77,4 +77,3 @@ Cloud deployment using AWS / Render / Vercel
 - 💻 [GitHub](https://github.com/Yasar9108)
 
 --
-## ⚡ Fun fact: I love automating repetitive tasks and turning ideas into intelligent syste
