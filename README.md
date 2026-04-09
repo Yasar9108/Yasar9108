@@ -1,79 +1,48 @@
 👋 Hi, I’m Yasar
 
-Hey there! I'm Yasar, a passionate Backend Developer currently working full-time at THB (TechHighbrows) Software Solutions Pvt. Ltd., where I build and scale real-world ERP web applications and AI-powered chatbots using modern technologies.
+Backend Developer with hands-on experience in building scalable ERP systems and AI-powered applications using Node.js, Express.js, and MongoDB. Currently working at THB Software Solutions, contributing to real-world production systems and intelligent automation tools.
 
-💻 Tech Stack & Skills
+💻 Tech Stack
+Backend: Node.js, Express.js, MongoDB, REST APIs, JWT
+Frontend: HTML, CSS, JavaScript (React - Basics)
+AI & Automation: OpenAI API, Chatbot Development, NLP
+Tools: Git, Postman, VS Code, AWS (Basics)
 
-Backend: Node.js · Express.js · MongoDB · JWT · REST APIs
-Frontend: HTML · CSS · JavaScript · React (basic understanding)
-AI & Automation: OpenAI API · Chatbot Integration · NLP · Python
-Tools & Others: Git · Postman · VS Code · AWS (Basics) · Agile Development
+💼 Experience
 
-💼 Professional Experience
+Associate Software Engineer — THB (TechHighbrows) Software Solutions Pvt. Ltd.
+Mar 2025 – Present
 
-Associate Software Engineer (Full-Time) — THB (TechHighbrows) Software Solutions Pvt. Ltd.
-March 2025 – Present
+• Developed and maintained backend services for a production-level ERP system (Coalescence)
+• Built secure authentication systems using JWT
+• Designed RESTful APIs to handle business workflows and data processing
+• Integrated AI-powered chatbots to automate user queries and data retrieval
+• Collaborated with cross-functional teams to improve performance and scalability
 
-Developing and maintaining backend services for a real-world ERP Application (“Coalescence”) using Node.js, Express.js, and MongoDB.
+💡 Projects
 
-Implemented JWT-based authentication for secure access control.
+ChatNexus — AI Chatbot Web App
+• Built a real-time chatbot using OpenAI API
+• Designed backend architecture with Node.js and MongoDB
+• Implemented authentication and session handling using JWT
+• Deployed on cloud for live usage
 
-Built and integrated AI-powered chatbots that fetch and process data from APIs for automation.
-
-Collaborating with cross-functional teams for design, debugging, and deployment.
-
-Assisted in ERP web module development using Node.js, Express.js, and MongoDB.
-
-Supported chatbot integration and helped design RESTful endpoints.
-
-Worked closely with senior developers in debugging and performance tuning.
-
-💡 Personal Projects
-
-🔹 ChatNexus — AI-Powered Chatbot Web App
-Node.js · Express.js · MongoDB · OpenAI API · JWT
-
-Built a full-stack AI chatbot capable of fetching and processing user queries in real time.
-
-Designed backend APIs with Node.js + Express.js, and used MongoDB for session data.
-
-Integrated JWT authentication and deployed the project on cloud.
-
-🔹 ERP Application — “Coalescence” (Real-World Project)
-Node.js · Express.js · MongoDB
-
-Contributed to building core backend modules and database schemas.
-
-Developed and tested RESTful APIs for ERP functionalities.
-
-Collaborated with teams to integrate and deploy the project successfully.
+ERP System — Coalescence
+• Contributed to backend module development and database schema design
+• Built and tested REST APIs for enterprise workflows
+• Assisted in deployment and debugging of production issues
 
 🌱 Currently Learning
+• System Design & Scalable Architecture
+• Advanced AI Integration
+• Cloud Deployment (AWS, Vercel, Render)
 
-Advanced AI & NLP model integration
+🎓 Education
+B.E. in Information Science — East Point College of Engineering (2021–2025)
 
-System Design and Scalable Architecture
+🔗 Links
+GitHub: github.com/Yasar9108
+LinkedIn: linkedin.com/in/yasar9108
+Email: [sheikhyasar528@gmail.com](mailto:sheikhyasar528@gmail.com)
 
-Cloud deployment using AWS / Render / Vercel
-
-## 🎓 Education:
-
-- 🎓 **East Point College of Engineering and Technology**  
-  *B.E. in Information Science and Engineering (2021 - 2025)*
-
-- 🏫 **Sahyadri PU College, Kolar**  
-  *Pre-University (2019 - 2021)*
-
-- 🏫 **Vivekananda Best Convent School, Malur**  
-  *Primary Education (2012 - 2019)*
-
----
-
-## 🔗 Connect with me:
- 
-  📧 sheikhyasar528@gmail.com
-- 📧 [yasarshishira123@gmail.com](mailto:yasarshishira123@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yasar9108/)  
-- 💻 [GitHub](https://github.com/Yasar9108)
-
---
+⚡ Fun fact: I love building intelligent systems that automate real-world problems.
