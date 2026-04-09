@@ -12,7 +12,7 @@ Tools & Others: Git · Postman · VS Code · AWS (Basics) · Agile Development
 💼 Professional Experience
 
 Associate Software Engineer (Full-Time) — THB (TechHighbrows) Software Solutions Pvt. Ltd.
-Jul 2025 – Present
+March 2025 – Present
 
 Developing and maintaining backend services for a real-world ERP Application (“Coalescence”) using Node.js, Express.js, and MongoDB.
 
@@ -76,7 +76,5 @@ Cloud deployment using AWS / Render / Vercel
 - 💼 [LinkedIn](https://www.linkedin.com/in/yasar9108/)  
 - 💻 [GitHub](https://github.com/Yasar9108)
 
----
-
-## 😄 Pronouns: He/Him  
-## ⚡ Fun fact: I love automating repetitive tasks and turning ideas into intelligent systems!
+--
+## ⚡ Fun fact: I love automating repetitive tasks and turning ideas into intelligent syste
