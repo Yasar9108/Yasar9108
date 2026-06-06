@@ -1,41 +1,59 @@
-👋 Hi, I’m Yasar
+# Hi there 👋, I'm Sheikh Yasar
 
-Backend Developer with hands-on experience in building scalable ERP systems and AI-powered applications using Node.js, Express.js, and MongoDB. Currently working at THB Software Solutions, contributing to real-world production systems and intelligent automation tools.
+### Associate Software Engineer at THB (TechHighbrows) Software Solutions Pvt. Ltd.
 
-💻 Tech Stack
-Backend: Node.js, Express.js, MongoDB, REST APIs, JWT
-Frontend: HTML, CSS, JavaScript (React - Basics)
-AI & Automation: OpenAI API, Chatbot Development, NLP
-Tools: Git, Postman, VS Code, AWS (Basics)
+Backend Developer with experience in building ERP applications, RESTful APIs, AI-powered chatbot integrations, and scalable backend systems using Node.js, Express.js, and MongoDB.
 
-💼 Experience
+### 💼 Professional Experience
 
-Associate Software Engineer — THB (TechHighbrows) Software Solutions Pvt. Ltd.
-Mar 2025 – Present
+**Associate Software Engineer**
+**THB (TechHighbrows) Software Solutions Pvt. Ltd.** | May 2025 – Present
 
-• Developed and maintained backend services for a production-level ERP system (Coalescence)
-• Built secure authentication systems using JWT
-• Designed RESTful APIs to handle business workflows and data processing
-• Integrated AI-powered chatbots to automate user queries and data retrieval
-• Collaborated with cross-functional teams to improve performance and scalability
+* Working on ERP application development using Node.js, Express.js, and MongoDB.
+* Developing RESTful APIs and backend services for business workflows.
+* Implementing JWT-based authentication and role-based authorization.
+* Building and integrating AI-powered chatbot solutions.
+* Collaborating with cross-functional teams to deliver scalable software solutions.
 
-💡 Projects
+### 🚀 Personal Projects (Built While Working at TechHighbrows)
 
-ChatNexus — AI Chatbot Web App
-• Built a real-time chatbot using OpenAI API
-• Designed backend architecture with Node.js and MongoDB
-• Implemented authentication and session handling using JWT
-• Deployed on cloud for live usage
+#### Backend Banking Transaction Processing System
 
-ERP System — Coalescence
-• Contributed to backend module development and database schema design
-• Built and tested REST APIs for enterprise workflows
-• Assisted in deployment and debugging of production issues
+* Double-Entry Ledger Architecture
+* Idempotent Transaction Processing
+* JWT Authentication & Authorization
+* MongoDB Transactions
+* Account Freeze/Unfreeze
+* Email Notifications
+* Ledger-Based Balance Calculation
 
-🌱 Currently Learning
-• System Design & Scalable Architecture
-• Advanced AI Integration
-• Cloud Deployment (AWS, Vercel, Render)
+#### AI SaaS Platform (In Progress)
+
+* AI-powered productivity and automation platform
+* Backend architecture using Node.js and MongoDB
+* AI integrations and workflow automation
+* Scalable SaaS application design
+
+### 🛠️ Tech Stack
+
+**Languages:** JavaScript, Java, Python
+
+**Backend:** Node.js, Express.js
+
+**Database:** MongoDB, Mongoose
+
+**Authentication:** JWT, bcrypt
+
+**Tools:** Git, GitHub, Postman, VS Code
+
+### 📚 Certifications
+* CS50x: Introduction to Computer Science – Harvard University
+* CS50 Web Programming with Python and JavaScript – Harvard University
+* Data Structures and Algorithms – Infosys Springboard
+* MERN Stack Development – Infosys Springboard
+
+### 🌱 Currently Learnin
+* SaaS Product Development
 
 🎓 Education
 B.E. in Information Science — East Point College of Engineering (2021–2025)
