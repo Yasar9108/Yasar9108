@@ -1,66 +1,280 @@
 # Hi there 👋, I'm Sheikh Yasar
 
-### Associate Software Engineer at THB (TechHighbrows) Software Solutions Pvt. Ltd.
+### Software Engineer | Backend Developer | AI Product Builder
 
-Backend Developer with experience in building ERP applications, RESTful APIs, AI-powered chatbot integrations, and scalable backend systems using Node.js, Express.js, and MongoDB.
+I’m a Software Engineer focused on building scalable backend systems,
+AI-powered applications, and real-world software products using
+Node.js, Express.js, MongoDB, React, and modern AI technologies.
 
-### 💼 Professional Experience
+I enjoy turning real-world problems into complete software products —
+from backend architecture and REST APIs to AI integrations and
+user-facing applications.
 
-**Associate Software Engineer**
-**THB (TechHighbrows) Software Solutions Pvt. Ltd.** | May 2025 – Present
+---
 
-* Working on ERP application development using Node.js, Express.js, and MongoDB.
-* Developing RESTful APIs and backend services for business workflows.
-* Implementing JWT-based authentication and role-based authorization.
-* Building and integrating AI-powered chatbot solutions.
-* Collaborating with cross-functional teams to deliver scalable software solutions.
+## 🚀 Featured Project — Zyoro AI
 
-### 🚀 Personal Projects (Built While Working at TechHighbrows)
+### 🤖 AI-Powered Career Assistant & Job Search Platform
 
-#### Backend Banking Transaction Processing System
+**Zyoro AI** is an AI-powered career platform designed to help users
+build stronger resumes, analyze ATS compatibility, prepare for
+technical interviews, practice coding, and discover relevant
+job opportunities.
 
-* Double-Entry Ledger Architecture
-* Idempotent Transaction Processing
-* JWT Authentication & Authorization
-* MongoDB Transactions
-* Account Freeze/Unfreeze
-* Email Notifications
-* Ledger-Based Balance Calculation
+The platform brings multiple AI-powered career tools together into
+one ecosystem.
 
-#### AI SaaS Platform (In Progress)
+### 🔥 Core Features
 
-* AI-powered productivity and automation platform
-* Backend architecture using Node.js and MongoDB
-* AI integrations and workflow automation
-* Scalable SaaS application design
+#### 📄 AI Resume Builder[completed]
 
-### 🛠️ Tech Stack
+- Build professional resumes using user-provided information
+- Upload existing resume data
+- Generate optimized resume content
+- Choose from modern professional resume templates
+- Create professional, structured resumes
+- Download generated resumes
+- AI-assisted resume content optimization
 
-**Languages:** JavaScript, Java, Python
+#### 🔍 AI Resume Analyzer[completed]
 
-**Backend:** Node.js, Express.js
+- Upload and analyze resumes
+- Generate ATS compatibility scores
+- Identify missing skills and keywords
+- Analyze resume strengths and weaknesses
+- Provide AI-powered improvement suggestions
+- Help optimize resumes for specific job roles
+- Identify areas that can improve resume visibility
 
-**Database:** MongoDB, Mongoose
+#### 🎤 AI Face-to-Face Interview[completed]
 
-**Authentication:** JWT, bcrypt
+- AI-generated interview questions
+- Real-time AI interview experience
+- Camera and microphone integration
+- AI voice interaction
+- Interview timer
+- Automatic question progression
+- Speaking analytics
+- Presentation analytics
+- AI-powered interview evaluation
+- Interview performance report
+- Technical and communication scoring
+- Personalized improvement suggestions
 
-**Tools:** Git, GitHub, Postman, VS Code
+#### 💻 AI Live Coding Interview[completed]
 
-### 📚 Certifications
-* CS50x: Introduction to Computer Science – Harvard University
-* CS50 Web Programming with Python and JavaScript – Harvard University
-* Data Structures and Algorithms – Infosys Springboard
-* MERN Stack Development – Infosys Springboard
+- AI acts as a technical interviewer
+- AI presents coding problems
+- Candidate explains the approach before writing code
+- AI evaluates problem-solving ability
+- Interactive coding environment
+- Code execution and test cases
+- AI-generated follow-up questions
+- Code quality evaluation
+- Time and space complexity analysis
+- AI-powered coding interview report
 
-### 🌱 Currently Learnin
-* SaaS Product Development
+#### 💼 AI Job Hunt[Inprogress]
 
-🎓 Education
-B.E. in Information Science — East Point College of Engineering (2021–2025)
+- Search for relevant job opportunities
+- Match jobs with candidate skills and resume
+- AI-assisted job discovery
+- Personalized job recommendations
+- Job application tracking
+- Help candidates discover suitable opportunities
 
-🔗 Links
-GitHub: github.com/Yasar9108
-LinkedIn: linkedin.com/in/yasar9108
-Email: [sheikhyasar528@gmail.com](mailto:sheikhyasar528@gmail.com)
+### 🛠️ Zyoro AI Tech Stack
 
-⚡ Fun fact: I love building intelligent systems that automate real-world problems.
+**Frontend**
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+**Backend**
+
+- Node.js
+- Express.js
+- REST APIs
+
+**Database**
+
+- MongoDB
+- Mongoose
+
+**AI**
+
+- Gemini AI
+- AI-powered resume analysis
+- AI-powered resume generation
+- AI-powered interview evaluation
+- AI career assistance
+
+**APIs & Services**
+
+- Adzuna API
+- Axios
+- PDF parsing
+- PDF generation
+- Multer
+
+**Authentication & Security**
+
+- JWT
+- bcrypt
+- Authentication middleware
+
+**Development Tools**
+
+- Git
+- GitHub
+- Postman
+- VS Code
+
+> 🚧 Zyoro AI is actively being developed as an AI-powered career
+> platform combining resume building, resume analysis, AI interviews,
+> live coding interviews, and AI-powered job discovery.
+
+---
+
+## 💼 Professional Experience
+
+### Associate Software Engineer
+
+**THB (TechHighbrows) Software Solutions Pvt. Ltd.**
+
+- Worked on ERP application development using Node.js, Express.js,
+  and MongoDB.
+- Developed RESTful APIs and backend services for business workflows.
+- Implemented JWT-based authentication and authorization.
+- Worked on enterprise application features and business workflows.
+- Integrated AI-powered chatbot functionality.
+- Collaborated with frontend, UI, and QA teams to deliver application
+  features.
+- Worked on real-world enterprise software development.
+
+---
+
+## 💳 Featured Backend Project
+
+### Advanced Banking Transaction Processing System
+
+A backend-focused banking transaction system designed around
+secure APIs, transaction consistency, ledger architecture,
+and reliable financial operations.
+
+### Key Features
+
+- Double-entry ledger architecture
+- Account-to-account transfers
+- Idempotent transaction processing
+- JWT authentication and authorization
+- MongoDB transactions
+- Ledger-based balance calculation
+- Transaction history
+- Transaction reversal
+- Account freeze/unfreeze
+- Initial account funding
+- Email notifications
+
+### Technologies
+
+`Node.js` `Express.js` `MongoDB` `Mongoose`
+
+`JWT` `bcrypt` `REST APIs`
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+`JavaScript` `Java` `Python`
+
+### Frontend
+
+`React` `HTML` `CSS`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs`
+
+### Database
+
+`MongoDB` `Mongoose`
+
+### Authentication & Security
+
+`JWT` `bcrypt`
+
+### AI & Integrations
+
+`Gemini AI` `AI API Integration`
+
+### Tools
+
+`Git` `GitHub` `Postman` `VS Code`
+
+---
+
+## 📚 Certifications
+
+- CS50x: Introduction to Computer Science — Udemy
+- CS50 Web Programming with Python and JavaScript — Udemy
+- Data Structures and Algorithms — Infosys Springboard
+- MERN Stack Development — Infosys Springboard
+
+---
+
+## 🎓 Education
+
+### B.E. in Information Science & Engineering
+
+**East Point College of Engineering and Technology**
+
+2021 – 2025
+
+---
+
+## 🌱 Currently Building & Learning
+
+- AI-powered SaaS applications
+- AI Career Platforms
+- AI Resume Systems
+- AI Interview Systems
+- Live AI Coding Interviews
+- Backend Architecture
+- Scalable REST APIs
+- AI API Integration
+- Full-Stack Product Development
+- Data Structures & Algorithms
+
+---
+
+## 📌 What I Like Building
+
+- 🤖 AI-powered applications
+- ⚙️ Backend systems
+- 💻 Developer tools
+- 🔄 Automation platforms
+- 🏢 Enterprise applications
+- 🚀 SaaS products
+- 🧠 Intelligent career systems
+
+---
+
+## 📊 My Development Focus
+
+```text
+Backend Engineering
+        +
+AI Integration
+        +
+Full-Stack Development
+        +
+System Design
+        +
+Problem Solving
+        ↓
+Real-World Software Products
